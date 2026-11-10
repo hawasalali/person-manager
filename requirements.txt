@@ -1,0 +1,3 @@
+# Abhängigkeiten für den Person Manager
+# (Nur Standardbibliotheken von Python – keine zusätzlichen Pakete nötig)
+tkinter>=0.0.1  # Wird standardmäßig mit Python mitgeliefert
